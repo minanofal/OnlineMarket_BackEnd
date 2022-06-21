@@ -1,0 +1,34 @@
+C:\Users\Kimo Store\Desktop\Market\Market.EF\bin\Release\net6.0\Market.EF.deps.json
+C:\Users\Kimo Store\Desktop\Market\Market.EF\bin\Release\net6.0\Market.EF.runtimeconfig.json
+C:\Users\Kimo Store\Desktop\Market\Market.EF\bin\Release\net6.0\Market.EF.dll
+C:\Users\Kimo Store\Desktop\Market\Market.EF\bin\Release\net6.0\Market.EF.pdb
+C:\Users\Kimo Store\Desktop\Market\Market.EF\bin\Release\net6.0\Market.Core.dll
+C:\Users\Kimo Store\Desktop\Market\Market.EF\bin\Release\net6.0\Market.Core.pdb
+C:\Users\Kimo Store\Desktop\Market\Market.EF\obj\Release\net6.0\Market.EF.csproj.AssemblyReference.cache
+C:\Users\Kimo Store\Desktop\Market\Market.EF\obj\Release\net6.0\Market.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimo Store\Desktop\Market\Market.EF\obj\Release\net6.0\Market.EF.AssemblyInfoInputs.cache
+C:\Users\Kimo Store\Desktop\Market\Market.EF\obj\Release\net6.0\Market.EF.AssemblyInfo.cs
+C:\Users\Kimo Store\Desktop\Market\Market.EF\obj\Release\net6.0\Market.EF.csproj.CoreCompileInputs.cache
+C:\Users\Kimo Store\Desktop\Market\Market.EF\obj\Release\net6.0\Market.EF.csproj.CopyComplete
+C:\Users\Kimo Store\Desktop\Market\Market.EF\obj\Release\net6.0\Market.EF.dll
+C:\Users\Kimo Store\Desktop\Market\Market.EF\obj\Release\net6.0\refint\Market.EF.dll
+C:\Users\Kimo Store\Desktop\Market\Market.EF\obj\Release\net6.0\Market.EF.pdb
+C:\Users\Kimo Store\Desktop\Market\Market.EF\obj\Release\net6.0\Market.EF.genruntimeconfig.cache
+C:\Users\Kimo Store\Desktop\Market\Market.EF\obj\Release\net6.0\ref\Market.EF.dll
+E:\Market\Market.EF\bin\Release\net6.0\Market.EF.deps.json
+E:\Market\Market.EF\bin\Release\net6.0\Market.EF.runtimeconfig.json
+E:\Market\Market.EF\bin\Release\net6.0\Market.EF.dll
+E:\Market\Market.EF\bin\Release\net6.0\Market.EF.pdb
+E:\Market\Market.EF\bin\Release\net6.0\Market.Core.dll
+E:\Market\Market.EF\bin\Release\net6.0\Market.Core.pdb
+E:\Market\Market.EF\obj\Release\net6.0\Market.EF.csproj.AssemblyReference.cache
+E:\Market\Market.EF\obj\Release\net6.0\Market.EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Market\Market.EF\obj\Release\net6.0\Market.EF.AssemblyInfoInputs.cache
+E:\Market\Market.EF\obj\Release\net6.0\Market.EF.AssemblyInfo.cs
+E:\Market\Market.EF\obj\Release\net6.0\Market.EF.csproj.CoreCompileInputs.cache
+E:\Market\Market.EF\obj\Release\net6.0\Market.EF.csproj.CopyComplete
+E:\Market\Market.EF\obj\Release\net6.0\Market.EF.dll
+E:\Market\Market.EF\obj\Release\net6.0\refint\Market.EF.dll
+E:\Market\Market.EF\obj\Release\net6.0\Market.EF.pdb
+E:\Market\Market.EF\obj\Release\net6.0\Market.EF.genruntimeconfig.cache
+E:\Market\Market.EF\obj\Release\net6.0\ref\Market.EF.dll

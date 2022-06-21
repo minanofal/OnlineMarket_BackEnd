@@ -1,0 +1,24 @@
+C:\Users\Kimo Store\Desktop\Market\Market.Core\bin\Debug\net6.0\Market.Core.deps.json
+C:\Users\Kimo Store\Desktop\Market\Market.Core\bin\Debug\net6.0\Market.Core.dll
+C:\Users\Kimo Store\Desktop\Market\Market.Core\bin\Debug\net6.0\Market.Core.pdb
+C:\Users\Kimo Store\Desktop\Market\Market.Core\obj\Debug\net6.0\Market.Core.csproj.AssemblyReference.cache
+C:\Users\Kimo Store\Desktop\Market\Market.Core\obj\Debug\net6.0\Market.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimo Store\Desktop\Market\Market.Core\obj\Debug\net6.0\Market.Core.AssemblyInfoInputs.cache
+C:\Users\Kimo Store\Desktop\Market\Market.Core\obj\Debug\net6.0\Market.Core.AssemblyInfo.cs
+C:\Users\Kimo Store\Desktop\Market\Market.Core\obj\Debug\net6.0\Market.Core.csproj.CoreCompileInputs.cache
+C:\Users\Kimo Store\Desktop\Market\Market.Core\obj\Debug\net6.0\Market.Core.dll
+C:\Users\Kimo Store\Desktop\Market\Market.Core\obj\Debug\net6.0\refint\Market.Core.dll
+C:\Users\Kimo Store\Desktop\Market\Market.Core\obj\Debug\net6.0\Market.Core.pdb
+C:\Users\Kimo Store\Desktop\Market\Market.Core\obj\Debug\net6.0\ref\Market.Core.dll
+E:\Market\Market.Core\bin\Debug\net6.0\Market.Core.deps.json
+E:\Market\Market.Core\bin\Debug\net6.0\Market.Core.dll
+E:\Market\Market.Core\bin\Debug\net6.0\Market.Core.pdb
+E:\Market\Market.Core\obj\Debug\net6.0\Market.Core.csproj.AssemblyReference.cache
+E:\Market\Market.Core\obj\Debug\net6.0\Market.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Market\Market.Core\obj\Debug\net6.0\Market.Core.AssemblyInfoInputs.cache
+E:\Market\Market.Core\obj\Debug\net6.0\Market.Core.AssemblyInfo.cs
+E:\Market\Market.Core\obj\Debug\net6.0\Market.Core.csproj.CoreCompileInputs.cache
+E:\Market\Market.Core\obj\Debug\net6.0\Market.Core.dll
+E:\Market\Market.Core\obj\Debug\net6.0\refint\Market.Core.dll
+E:\Market\Market.Core\obj\Debug\net6.0\Market.Core.pdb
+E:\Market\Market.Core\obj\Debug\net6.0\ref\Market.Core.dll
